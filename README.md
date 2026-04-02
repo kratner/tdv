@@ -1,6 +1,6 @@
-# Trans-Dimensional Voyage
+# Trans-Dimensional Voyager
 
-An interactive, fully responsive slide viewer showcasing the Trans-Dimensional Voyage collection.
+An interactive, fully responsive slide viewer showcasing the Trans-Dimensional Voyager collection.
 
 ## 🔗 Live Demo
 
