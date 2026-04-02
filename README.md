@@ -4,7 +4,7 @@ An interactive, fully responsive slide viewer showcasing the Trans-Dimensional V
 
 ## 🔗 Live Demo
 
-**View the live site: [https://kratner.github.io/tdv/](https://kratner.github.io/tdv/)**
+**View the live site: <a href="https://kratner.github.io/tdv/" target="_blank" rel="noopener noreferrer">https://kratner.github.io/tdv/</a>**
 
 ## 🌟 Features
 
