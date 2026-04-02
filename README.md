@@ -2,6 +2,10 @@
 
 An interactive, fully responsive slide viewer showcasing the Trans-Dimensional Voyage collection.
 
+## 🔗 Live Demo
+
+**View the live site: [https://kratner.github.io/tdv/](https://kratner.github.io/tdv/)**
+
 ## 🌟 Features
 
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
